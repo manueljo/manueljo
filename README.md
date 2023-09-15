@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manueljo and I'm a Django fullstack Developer
 - 👀 I’m interested in Informaion Technology
-- 🌱 I’m currently learning React
+- 🌱 I’m freelancer
 - 💞️ I’m looking to collaborate on Django projects
 - 📫 How to reach me ...
 
