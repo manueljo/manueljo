@@ -2,7 +2,7 @@
 - 👀 I’m intrested in Information Technology
 - 🌱 I’m a freelancer
 - 💞️ I’m looking to collaborate on Django projects
-- 📫 How to reach me ...
+- 📫 Checkout my [Portfolio](https://manueljo.github.io/myportfolio/) 
 
 <!---
 manueljo/manueljo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
