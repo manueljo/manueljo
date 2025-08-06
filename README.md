@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @manueljo and I'm a Django fullstack Developer
-- 👀 I’m intrested in Information Technology
-- 🌱 I’m a freelancer
-- 💞️ I’m looking to collaborate on Django projects
-- 📫 Checkout my [Portfolio](https://manueljo.github.io/myportfolio/) 
+# Hi there 👋
+
+### I'm a full-stack web developer based in Nigeria, focused on building real-world products with Django, React, and modern tools like Tailwind and Next.js.
+
+Checkout my [Portfolio](https://manueljo.github.io/myportfolio/) 
 
 <!---
 manueljo/manueljo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
