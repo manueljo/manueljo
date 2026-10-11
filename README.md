@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm a full-stack web developer based in Nigeria, focused on building real-world products with Django, React, and modern tools like Tailwind and Next.js.
+### I'm a software engineer, focused on building real-world products with Django, React, Next.js....
 
 Checkout my [Portfolio](https://manueljo.netlify.app/) 
 
